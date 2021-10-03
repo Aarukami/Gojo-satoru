@@ -16,7 +16,7 @@
 
 ## Deploy
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Kazutora"> <img src="https://te.legra.ph/file/0cb31940d74a382e93032.jpg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Aarukami/Kazutora"> <img src="https://te.legra.ph/file/0cb31940d74a382e93032.jpg" width="340" height="300"/></a></p>
  
 ## Staff
  Aaru [Dev](https://t.me/girls_lob)
