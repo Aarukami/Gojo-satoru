@@ -69,7 +69,7 @@ RUN git clone -b shiken https://github.com/Aarukami/Kazutora /root/Kazutora
 WORKDIR /root/Kazutora
 
 #Copy config file to /root/Kazutora/Kazutora
-COPY ./Kazutora/sample_config.py ./Kazutora/config.py* /root/Kazutora/Kazutora/
+COPY ./Kazutora/config.py ./Kazutora/config.py* /root/Kazutora/Kazutora/
 
 ENV PATH="/home/bot/bin:$PATH"
 
