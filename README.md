@@ -12,7 +12,7 @@
 
 ### Bot And Channel 
 * Bot Link:  <a href="http://t.me/KazutoraXRobot" alt=" Goku "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Kazutora-blue" /> </a>
-* Support Channel: <a  href="https://t.me/XForceBots" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-XForce%20Update%20Channel-9cf" /> </a>
+* Support Channel: <a  href="https://t.me/mhaprvt" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Mhaprvt%20Update%20Channel-9cf" /> </a>
 
 ## Deploy
 The easiest way to deploy this Bot
