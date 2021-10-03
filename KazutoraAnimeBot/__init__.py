@@ -107,7 +107,7 @@ if ENV:
             "Your blacklisted chats list does not contain valid integers.")
 
 else:
-    from KURUMIBOT.config import Development as Config
+    from KazutoraAnimBot.config import Development as Config
     TOKEN = Config.TOKEN
 
     try:
