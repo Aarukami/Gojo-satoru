@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/about-codeowners/ for valid syntax for entries.
+# Default owners for everything in the repo, unless a later match takes precedence
+
+# Phoenix owns the files under blacklist thingies
+/KazutoraAnimeBot/modules/blacklistusers.py @A_lonleyPerson
+/KazutoraAnimeBot/modules/sql/blacklistusers_sql.py @A_lonleyPerson
+#pep8-ing the code doesn't change maker
+/KazutoraAnimeBot/modules/paste.py @A_lonleyPerson
+/KazutoraAnimeBot/modules/speed_test.py @A_lonleyPerson
+
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
