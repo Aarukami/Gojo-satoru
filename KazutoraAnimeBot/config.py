@@ -17,7 +17,7 @@ class Config(object):
 
     API_ID = 8153612  # integer value, dont use ""
     API_HASH = "6c9636ea928b50402b7d7c69a6eba45c"
-    TOKEN = "2013012708:AAHh-zliSvJXM_av1KzNJnXn-1gFRF7Cc2Q"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = "2013012708:AAHOle5qv4ZVWNNDH0OuRC6SFqrqu0qc7Aw"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 2021224869 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "girls_lob"
     SUPPORT_CHAT = 'KazutoraSupport'  #Your own group for support, do not add the @
@@ -31,7 +31,7 @@ class Config(object):
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "7wo34pW6BRC9_90HCQqxGViGbxXE~YPiUgOqr9IVNZsYvCcq_K74Z_Im987bnaOE"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
 
     #OPTIONAL
